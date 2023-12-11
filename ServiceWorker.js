@@ -1,9 +1,9 @@
 const cacheName = "Osku-ViimeinenRuohonleikkaaja-0.1";
 const contentToCache = [
     "Build/ViimeinenRuohonleikkaaja.loader.js",
-    "Build/ViimeinenRuohonleikkaaja.framework.js.gz",
-    "Build/ViimeinenRuohonleikkaaja.data.gz",
-    "Build/ViimeinenRuohonleikkaaja.wasm.gz",
+    "Build/ViimeinenRuohonleikkaaja.framework.js",
+    "Build/ViimeinenRuohonleikkaaja.data",
+    "Build/ViimeinenRuohonleikkaaja.wasm",
     "TemplateData/style.css"
 
 ];
